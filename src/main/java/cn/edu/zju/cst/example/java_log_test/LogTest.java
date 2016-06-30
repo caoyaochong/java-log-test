@@ -5,7 +5,6 @@ public class LogTest {
 	public static void main(String[] args) {
 		System.out.println("hello log");
 		System.out.println("hello log4j");
-
 	}
 
 }
