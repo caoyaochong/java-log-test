@@ -6,7 +6,5 @@ public class LogTest {
 		System.out.println("hello log");
 		System.out.println("hello log4j");
 		System.out.println("hello logbak");
-
 	}
-
 }
